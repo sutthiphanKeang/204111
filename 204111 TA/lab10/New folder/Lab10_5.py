@@ -1,0 +1,90 @@
+unit_list = ["","one","two","three","four","five","six","seven","eight","nine","ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen"]
+ty_list = ["","","twenty","thirty", "forty", "fifty" ,"sixty", "seventy","eighty", "ninety"] 
+def three_digits_to_word(n):
+        if n <= 19:
+            return unit_list[n]
+        elif n > 19:
+            if n < 100:
+                x, y = divmod(n, 10)
+                if y == 0:
+                    return ty_list[x] + ' ' + unit_list[y]
+                elif y != 0:
+                    return ty_list[x] + '-' + unit_list[y]
+            else:
+                x, y = divmod(n, 100)
+                a, b = divmod(y, 10)
+                if y == 0:
+                    return unit_list[x] + ' hundred'
+                elif y <= 19:
+                    return unit_list[x] + ' hundred ' + unit_list[y]
+                else:
+                    if b == 0:
+                        return unit_list[x] + ' hundred ' + ty_list[a]
+                    else:
+                        return unit_list[x] + ' hundred ' + ty_list[a] + '-' + unit_list[b]
+
+
+
+def num_to_word(num):
+    x, y = divmod(num, 1000) #หาหลักมาสามตัวหลักพัน
+    a, b = divmod(x, 10) #หาหลักมาสามตัวหมื่น
+    c, d = divmod(x, 1000) #หาหลักมาสามตัวล้าน และมาสามตัวแสน
+    e, f = divmod(c, 10) #หาหลักมาสามตัวสิบล้าน
+    g, h = divmod(x, 1000) #หาหลักมาสามตัวร้อยล้าน
+    i, j = divmod(c, 1000) #หาหลักมาสามตัวหมื่นล้าน
+    k, l = divmod(i, 10) #หาหลักหน่วยของหมื่นล้าน
+    if num == 0:
+        return 'zero'
+    elif num <= 999:
+        return three_digits_to_word(num)
+    elif num <= 99999:
+        if x <= 19:
+            return unit_list[x] + ' thousand ' + three_digits_to_word(y)
+        else:
+            if b == 0:
+                return ty_list[a] + ' thousand ' + three_digits_to_word(y)
+            elif b != 0:
+                return ty_list[a] + '-' + unit_list[b] + ' thousand ' + three_digits_to_word(y)
+    elif num <= 999999:
+        return three_digits_to_word(x) + ' thousand ' + three_digits_to_word(y)
+    elif num <= 99999999:
+        if c <= 19:
+            return unit_list[c] + ' million ' + three_digits_to_word(d) + ' thousand ' + three_digits_to_word(y)
+        else:
+            if f == 0:
+                return ty_list[e] + ' million ' + three_digits_to_word(d) + ' thousand ' + three_digits_to_word(y)
+            elif f != 0:
+                return ty_list[e] + '-' + unit_list[f] + ' million ' + three_digits_to_word(d) + ' thousand ' + three_digits_to_word(y)
+    elif num <= 999999999:
+        return three_digits_to_word(g) + ' million ' + three_digits_to_word(h) + ' thousand ' + three_digits_to_word(y)
+    elif num <= 99999999999:
+        if i <= 19:
+            return unit_list[i] + ' billion ' + three_digits_to_word(j) + ' million ' + three_digits_to_word(d) + ' thousand ' + three_digits_to_word(y)
+        else:
+            if l == 0:
+                return ty_list[k] + ' billion ' + three_digits_to_word(j) + ' million ' + three_digits_to_word(d) + ' thousand ' + three_digits_to_word(y)
+            elif l != 0:
+                return ty_list[k] + '-' + unit_list[l] + ' billion ' + three_digits_to_word(j) + ' million ' + three_digits_to_word(d) + ' thousand ' + three_digits_to_word(y)
+    elif num <= 999999999999:
+        if y == 0:
+            return three_digits_to_word(i) + ' billion'
+        else:
+            return three_digits_to_word(i) + ' billion ' + three_digits_to_word(j) + ' million ' + three_digits_to_word(d) + ' thousand ' + three_digits_to_word(y)
+
+
+    
+
+def main():
+    n = int(input())
+    print(num_to_word(n))
+    
+
+
+if __name__ == '__main__':
+    main()
+
+
+#630510647
+#สุทธิพันธ์ ประนันแปง
+#002
+#Lab10_5

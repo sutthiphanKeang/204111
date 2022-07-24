@@ -1,0 +1,5 @@
+Total students: Enter score:
+---
+Max score is: 68.00
+Runner up is: 66.00
+Average is: 34.50

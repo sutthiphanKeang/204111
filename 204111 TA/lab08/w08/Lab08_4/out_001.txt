@@ -1,0 +1,3 @@
+<class 'str'> HAPPY 
+<class 'str'> coding
+<class 'str'> comp sci!!!

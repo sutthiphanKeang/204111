@@ -1,0 +1,20 @@
+1
+True True
+9.313225746154785e-10
+True True
+3.2070071896161907e-20
+True True
+0.00021626297577854672
+True True
+0.00019290123456790122
+True True
+1.0
+True True
+1.0946700817686619e-18
+True True
+0.5
+True True
+1.0
+True True
+0.0001
+True True

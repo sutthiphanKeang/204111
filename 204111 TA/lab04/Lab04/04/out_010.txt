@@ -1,0 +1,10 @@
+1355 <class 'int'>
+2604 <class 'int'>
+4256 <class 'int'>
+8207 <class 'int'>
+726 <class 'int'>
+2268 <class 'int'>
+4232 <class 'int'>
+5832 <class 'int'>
+8175 <class 'int'>
+4219 <class 'int'>

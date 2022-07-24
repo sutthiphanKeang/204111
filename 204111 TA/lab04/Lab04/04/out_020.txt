@@ -1,0 +1,10 @@
+-8666 <class 'int'>
+-4377 <class 'int'>
+-7922 <class 'int'>
+-5569 <class 'int'>
+-3383 <class 'int'>
+-501 <class 'int'>
+-9609 <class 'int'>
+-2578 <class 'int'>
+-7179 <class 'int'>
+-1784 <class 'int'>

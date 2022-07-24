@@ -1,0 +1,13 @@
+['a', 'c', 'b']
+<class 'list'>
+8
+<class 'set'>
+
+a
+b
+c
+ab
+ac
+bc
+abc
+---------------

@@ -1,0 +1,3 @@
+2 <class 'int'>
+-3 <class 'int'>
+0 <class 'int'>

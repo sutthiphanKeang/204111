@@ -1,0 +1,10 @@
+Wood Snake
+Fire Horse
+Fire Goat
+Earth Monkey
+Earth Rooster
+Metal Dog
+Metal Pig
+Water Rat
+Water Goat
+Wood Monkey

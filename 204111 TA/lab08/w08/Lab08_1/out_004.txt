@@ -1,0 +1,145 @@
+01w02w03w04w05w06w07w08w09w10
+36wwwwwwwwwwwwwwwwwwwwwwwww11
+35wwwwwwwwwwwwwwwwwwwwwwwww12
+34wwwwwwwwwwwwwwwwwwwwwwwww13
+33wwwwwwwwwwwwwwwwwwwwwwwww14
+32wwwwwwwwwwwwwwwwwwwwwwwww15
+31wwwwwwwwwwwwwwwwwwwwwwwww16
+30wwwwwwwwwwwwwwwwwwwwwwwww17
+29wwwwwwwwwwwwwwwwwwwwwwwww18
+28w27w26w25w24w23w22w21w20w19
+
+01 02 03 04 05 06 07 08 09 10
+36                         11
+35                         12
+34                         13
+33                         14
+32                         15
+31                         16
+30                         17
+29                         18
+28 27 26 25 24 23 22 21 20 19
+
+01m02m03m04m05m06m07m08m09m10
+36mmmmmmmmmmmmmmmmmmmmmmmmm11
+35mmmmmmmmmmmmmmmmmmmmmmmmm12
+34mmmmmmmmmmmmmmmmmmmmmmmmm13
+33mmmmmmmmmmmmmmmmmmmmmmmmm14
+32mmmmmmmmmmmmmmmmmmmmmmmmm15
+31mmmmmmmmmmmmmmmmmmmmmmmmm16
+30mmmmmmmmmmmmmmmmmmmmmmmmm17
+29mmmmmmmmmmmmmmmmmmmmmmmmm18
+28m27m26m25m24m23m22m21m20m19
+
+01 02 03 04 05 06 07 08 09 10
+36                         11
+35                         12
+34                         13
+33                         14
+32                         15
+31                         16
+30                         17
+29                         18
+28 27 26 25 24 23 22 21 20 19
+
+01d02d03d04d05d06d07d08d09d10d11
+40dddddddddddddddddddddddddddd12
+39dddddddddddddddddddddddddddd13
+38dddddddddddddddddddddddddddd14
+37dddddddddddddddddddddddddddd15
+36dddddddddddddddddddddddddddd16
+35dddddddddddddddddddddddddddd17
+34dddddddddddddddddddddddddddd18
+33dddddddddddddddddddddddddddd19
+32dddddddddddddddddddddddddddd20
+31d30d29d28d27d26d25d24d23d22d21
+
+01302303304305306307308309310311
+40333333333333333333333333333312
+39333333333333333333333333333313
+38333333333333333333333333333314
+37333333333333333333333333333315
+36333333333333333333333333333316
+35333333333333333333333333333317
+34333333333333333333333333333318
+33333333333333333333333333333319
+32333333333333333333333333333320
+31330329328327326325324323322321
+
+01y02y03y04y05y06y07y08y09y10y11
+40yyyyyyyyyyyyyyyyyyyyyyyyyyyy12
+39yyyyyyyyyyyyyyyyyyyyyyyyyyyy13
+38yyyyyyyyyyyyyyyyyyyyyyyyyyyy14
+37yyyyyyyyyyyyyyyyyyyyyyyyyyyy15
+36yyyyyyyyyyyyyyyyyyyyyyyyyyyy16
+35yyyyyyyyyyyyyyyyyyyyyyyyyyyy17
+34yyyyyyyyyyyyyyyyyyyyyyyyyyyy18
+33yyyyyyyyyyyyyyyyyyyyyyyyyyyy19
+32yyyyyyyyyyyyyyyyyyyyyyyyyyyy20
+31y30y29y28y27y26y25y24y23y22y21
+
+01<02<03<04<05<06<07<08<09<10<11<12
+44<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<13
+43<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<14
+42<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<15
+41<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<16
+40<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<17
+39<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<18
+38<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<19
+37<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<20
+36<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<21
+35<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<22
+34<33<32<31<30<29<28<27<26<25<24<23
+
+01m02m03m04m05m06m07m08m09m10m11m12
+44mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm13
+43mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm14
+42mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm15
+41mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm16
+40mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm17
+39mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm18
+38mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm19
+37mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm20
+36mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm21
+35mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm22
+34m33m32m31m30m29m28m27m26m25m24m23
+
+01602603604605606607608609610611612
+44666666666666666666666666666666613
+43666666666666666666666666666666614
+42666666666666666666666666666666615
+41666666666666666666666666666666616
+40666666666666666666666666666666617
+39666666666666666666666666666666618
+38666666666666666666666666666666619
+37666666666666666666666666666666620
+36666666666666666666666666666666621
+35666666666666666666666666666666622
+34633632631630629628627626625624623
+
+01r02r03r04r05r06r07r08r09r10r11r12
+44rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr13
+43rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr14
+42rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr15
+41rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr16
+40rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr17
+39rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr18
+38rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr19
+37rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr20
+36rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr21
+35rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr22
+34r33r32r31r30r29r28r27r26r25r24r23
+
+01c02c03c04c05c06c07c08c09c10c11c12
+44ccccccccccccccccccccccccccccccc13
+43ccccccccccccccccccccccccccccccc14
+42ccccccccccccccccccccccccccccccc15
+41ccccccccccccccccccccccccccccccc16
+40ccccccccccccccccccccccccccccccc17
+39ccccccccccccccccccccccccccccccc18
+38ccccccccccccccccccccccccccccccc19
+37ccccccccccccccccccccccccccccccc20
+36ccccccccccccccccccccccccccccccc21
+35ccccccccccccccccccccccccccccccc22
+34c33c32c31c30c29c28c27c26c25c24c23
+

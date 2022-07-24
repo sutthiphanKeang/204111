@@ -1,0 +1,15 @@
+<class 'float'> 10110001.000000
+<class 'float'> 1110111.000000
+<class 'float'> 1101000.000000
+<class 'float'> 10011000.000000
+<class 'float'> 1001010.000000
+<class 'float'> 10110000.000000
+<class 'float'> 1011110.000000
+<class 'float'> 1010111.000000
+<class 'float'> 10010.000000
+<class 'float'> 10110.000000
+<class 'float'> 1100111.000000
+<class 'float'> 10010010.000000
+<class 'float'> 10011100.000000
+<class 'float'> 1011010.000000
+<class 'float'> 1010011.000000

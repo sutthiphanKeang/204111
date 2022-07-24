@@ -1,0 +1,10 @@
+4500 <class 'int'>
+1904000 <class 'int'>
+3000 <class 'int'>
+2538500 <class 'int'>
+20500 <class 'int'>
+36000 <class 'int'>
+500 <class 'int'>
+347500 <class 'int'>
+424500 <class 'int'>
+140500 <class 'int'>

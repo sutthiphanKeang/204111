@@ -1,0 +1,40 @@
+2.3762680013799937e+25
+True True
+1
+True True
+188356.0
+True True
+1.0
+True True
+144.0
+True True
+15625.0
+True True
+1048576.0
+True True
+27.0
+True True
+65610000.0
+True True
+32768.0
+True True
+1048576.0
+True True
+9.135172474836408e+17
+True True
+970299.0
+True True
+3.202904052847411e+16
+True True
+2.0248435554978038e+20
+True True
+103823.0
+True True
+1
+True True
+227.0
+True True
+16983563041.0
+True True
+1.846757322198614e+18
+True True

@@ -1,0 +1,5 @@
+<class 'tuple'>
+<class 'int'>
+(2, 1, 2, 3)
+8
+5

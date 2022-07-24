@@ -1,0 +1,3 @@
+500 <class 'int'>
+500 <class 'int'>
+1000 <class 'int'>

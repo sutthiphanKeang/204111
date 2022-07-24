@@ -1,0 +1,10 @@
+-5297 <class 'int'>
+-2721 <class 'int'>
+-6337 <class 'int'>
+-6503 <class 'int'>
+-635 <class 'int'>
+-2593 <class 'int'>
+-349 <class 'int'>
+-5185 <class 'int'>
+-5603 <class 'int'>
+-2371 <class 'int'>

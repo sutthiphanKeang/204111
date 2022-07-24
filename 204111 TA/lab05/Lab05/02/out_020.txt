@@ -1,0 +1,10 @@
+True <class 'bool'>
+True <class 'bool'>
+True <class 'bool'>
+True <class 'bool'>
+True <class 'bool'>
+False <class 'bool'>
+True <class 'bool'>
+True <class 'bool'>
+False <class 'bool'>
+True <class 'bool'>

@@ -1,0 +1,406 @@
+EMPTY
+one thousand
+EMPTY
+ten thousand
+EMPTY
+one hundred thousand
+ninety-three
+one thousand ninety-three
+three hundred eighty-nine
+two thousand three hundred eighty-nine
+seven hundred seven
+two thousand seven hundred seven
+five hundred six
+twenty-two thousand five hundred six
+eight
+twenty-five thousand eight
+eight hundred eighty-five
+thirty-two thousand eight hundred eighty-five
+four hundred eighty-eight
+thirty-eight thousand four hundred eighty-eight
+fifty-seven
+forty-two thousand fifty-seven
+nine hundred thirty-three
+forty-two thousand nine hundred thirty-three
+one hundred thirty-six
+forty-four thousand one hundred thirty-six
+six hundred nineteen
+forty-five thousand six hundred nineteen
+nine hundred seventy-one
+forty-five thousand nine hundred seventy-one
+one hundred sixty-eight
+forty-seven thousand one hundred sixty-eight
+five hundred forty-three
+forty-eight thousand five hundred forty-three
+three hundred fifty-one
+fifty-two thousand three hundred fifty-one
+six hundred sixty-two
+fifty-six thousand six hundred sixty-two
+eight hundred twenty-nine
+sixty-four thousand eight hundred twenty-nine
+eight hundred fifty
+sixty-five thousand eight hundred fifty
+three hundred thirty-three
+seventy-four thousand three hundred thirty-three
+eight hundred sixty-four
+seventy-seven thousand eight hundred sixty-four
+four hundred ninety-seven
+seventy-nine thousand four hundred ninety-seven
+one hundred twenty-eight
+eighty-six thousand one hundred twenty-eight
+four hundred forty-two
+eighty-nine thousand four hundred forty-two
+four hundred eighty-five
+ninety-two thousand four hundred eighty-five
+fifty-one
+ninety-three thousand fifty-one
+six hundred nineteen
+ninety-three thousand six hundred nineteen
+eight hundred fifty-three
+ninety-three thousand eight hundred fifty-three
+five hundred forty-four
+ninety-five thousand five hundred forty-four
+seven hundred eighty-four
+one hundred three thousand seven hundred eighty-four
+one hundred thirteen
+one hundred four thousand one hundred thirteen
+two hundred fifty-eight
+one hundred five thousand two hundred fifty-eight
+three hundred
+one hundred eight thousand three hundred
+eight hundred fifty-nine
+one hundred fourteen thousand eight hundred fifty-nine
+seven hundred seventy-three
+one hundred nineteen thousand seven hundred seventy-three
+two hundred forty-two
+one hundred fifty-four thousand two hundred forty-two
+two hundred four
+one hundred fifty-eight thousand two hundred four
+sixty-four
+one hundred fifty-nine thousand sixty-four
+one hundred ninety-three
+one hundred sixty-six thousand one hundred ninety-three
+four hundred sixteen
+one hundred seventy thousand four hundred sixteen
+four hundred thirty-four
+one hundred seventy-one thousand four hundred thirty-four
+five hundred thirty-six
+one hundred seventy-five thousand five hundred thirty-six
+seven hundred twenty-seven
+one hundred eighty-three thousand seven hundred twenty-seven
+nine hundred twenty-three
+one hundred ninety-three thousand nine hundred twenty-three
+EMPTY
+two hundred seven thousand
+six hundred ninety-four
+two hundred nine thousand six hundred ninety-four
+two hundred fifty-seven
+two hundred eleven thousand two hundred fifty-seven
+three hundred thirty-seven
+two hundred twelve thousand three hundred thirty-seven
+four hundred fourteen
+two hundred twenty-six thousand four hundred fourteen
+fifty-six
+two hundred twenty-seven thousand fifty-six
+six hundred ninety-three
+two hundred thirty-six thousand six hundred ninety-three
+three hundred forty-seven
+two hundred thirty-seven thousand three hundred forty-seven
+nine hundred eighty-nine
+two hundred thirty-eight thousand nine hundred eighty-nine
+two hundred twenty-six
+two hundred forty-two thousand two hundred twenty-six
+one hundred seventy-four
+two hundred forty-three thousand one hundred seventy-four
+five hundred eighty-four
+two hundred sixty-six thousand five hundred eighty-four
+four hundred eighty-four
+two hundred seventy-one thousand four hundred eighty-four
+four hundred nineteen
+two hundred seventy-four thousand four hundred nineteen
+seven hundred forty-nine
+two hundred seventy-five thousand seven hundred forty-nine
+fifty-three
+two hundred eighty-four thousand fifty-three
+five hundred ninety-three
+two hundred eighty-eight thousand five hundred ninety-three
+three hundred four
+two hundred ninety-four thousand three hundred four
+fifty-one
+three hundred seven thousand fifty-one
+two hundred fifty-eight
+three hundred eleven thousand two hundred fifty-eight
+two hundred twenty-one
+three hundred twelve thousand two hundred twenty-one
+twenty-two
+three hundred thirteen thousand twenty-two
+two hundred five
+three hundred thirteen thousand two hundred five
+one hundred twenty-eight
+three hundred eighteen thousand one hundred twenty-eight
+one hundred sixty-eight
+three hundred twenty-four thousand one hundred sixty-eight
+three hundred
+three hundred thirty-four thousand three hundred
+sixty-one
+three hundred forty-eight thousand sixty-one
+eight hundred sixty-five
+three hundred forty-eight thousand eight hundred sixty-five
+four hundred thirty
+three hundred sixty-two thousand four hundred thirty
+one hundred fifty-two
+three hundred seventy-one thousand one hundred fifty-two
+two hundred fifty-three
+three hundred seventy-seven thousand two hundred fifty-three
+eight hundred thirty-five
+three hundred seventy-seven thousand eight hundred thirty-five
+six hundred one
+three hundred eighty-two thousand six hundred one
+four hundred ninety
+three hundred eighty-six thousand four hundred ninety
+seven hundred seventy
+three hundred ninety thousand seven hundred seventy
+eight hundred thirty-seven
+three hundred ninety-five thousand eight hundred thirty-seven
+fifteen
+four hundred four thousand fifteen
+five hundred nine
+four hundred nineteen thousand five hundred nine
+seven hundred forty-five
+four hundred twenty-seven thousand seven hundred forty-five
+nine hundred sixty-four
+four hundred twenty-seven thousand nine hundred sixty-four
+two hundred forty-seven
+four hundred forty thousand two hundred forty-seven
+four hundred fifty-one
+four hundred forty-one thousand four hundred fifty-one
+one hundred thirty
+four hundred fifty-five thousand one hundred thirty
+six hundred forty-eight
+four hundred fifty-six thousand six hundred forty-eight
+nine hundred eighty-six
+four hundred sixty-four thousand nine hundred eighty-six
+eight hundred ninety-nine
+four hundred seventy thousand eight hundred ninety-nine
+two hundred eleven
+four hundred seventy-five thousand two hundred eleven
+seven hundred thirty-two
+four hundred ninety thousand seven hundred thirty-two
+sixty-four
+four hundred ninety-six thousand sixty-four
+eight hundred thirty-eight
+four hundred ninety-seven thousand eight hundred thirty-eight
+nine hundred eighty-six
+four hundred ninety-eight thousand nine hundred eighty-six
+one hundred seventy-two
+five hundred three thousand one hundred seventy-two
+eight hundred thirty-two
+five hundred three thousand eight hundred thirty-two
+one hundred ninety-two
+five hundred seven thousand one hundred ninety-two
+five hundred nineteen
+five hundred seventeen thousand five hundred nineteen
+nine hundred sixty-seven
+five hundred thirty-three thousand nine hundred sixty-seven
+four hundred one
+five hundred thirty-nine thousand four hundred one
+nine hundred twenty-nine
+five hundred thirty-nine thousand nine hundred twenty-nine
+seven hundred forty-eight
+five hundred forty-one thousand seven hundred forty-eight
+one hundred twenty-seven
+five hundred forty-two thousand one hundred twenty-seven
+nine hundred twenty
+five hundred fifty-one thousand nine hundred twenty
+five hundred thirty-nine
+five hundred sixty thousand five hundred thirty-nine
+two hundred forty-eight
+five hundred sixty-four thousand two hundred forty-eight
+five hundred seventy-seven
+five hundred sixty-five thousand five hundred seventy-seven
+seven hundred eighty-seven
+five hundred seventy-six thousand seven hundred eighty-seven
+seven hundred twenty-one
+five hundred eighty-one thousand seven hundred twenty-one
+four hundred twenty-five
+five hundred eighty-four thousand four hundred twenty-five
+four hundred forty-eight
+five hundred eighty-six thousand four hundred forty-eight
+eight hundred forty-three
+six hundred nineteen thousand eight hundred forty-three
+eight hundred ten
+six hundred twenty-six thousand eight hundred ten
+four hundred twenty-two
+six hundred thirty-three thousand four hundred twenty-two
+nine hundred eighty-two
+six hundred thirty-nine thousand nine hundred eighty-two
+seven hundred twelve
+six hundred forty thousand seven hundred twelve
+five hundred eighty-four
+six hundred forty-five thousand five hundred eighty-four
+ninety-eight
+six hundred fifty-one thousand ninety-eight
+seven hundred ninety-nine
+six hundred fifty-six thousand seven hundred ninety-nine
+seven hundred forty-seven
+six hundred fifty-nine thousand seven hundred forty-seven
+one hundred thirty-nine
+six hundred sixty-five thousand one hundred thirty-nine
+nine hundred twenty-two
+six hundred sixty-five thousand nine hundred twenty-two
+two hundred forty-seven
+six hundred sixty-six thousand two hundred forty-seven
+three hundred eighty-seven
+six hundred seventy thousand three hundred eighty-seven
+seven hundred twenty-two
+six hundred seventy-nine thousand seven hundred twenty-two
+four hundred eighty-seven
+six hundred eighty-six thousand four hundred eighty-seven
+one hundred sixty-five
+six hundred eighty-eight thousand one hundred sixty-five
+thirteen
+seven hundred four thousand thirteen
+four hundred fifty-six
+seven hundred five thousand four hundred fifty-six
+eight hundred eighty-seven
+seven hundred six thousand eight hundred eighty-seven
+seven hundred forty-five
+seven hundred eight thousand seven hundred forty-five
+nine hundred nineteen
+seven hundred eighteen thousand nine hundred nineteen
+nine hundred forty-four
+seven hundred nineteen thousand nine hundred forty-four
+six hundred fifty-nine
+seven hundred twenty thousand six hundred fifty-nine
+eight hundred eight
+seven hundred twenty-three thousand eight hundred eight
+three hundred twenty-three
+seven hundred twenty-nine thousand three hundred twenty-three
+five hundred five
+seven hundred thirty-four thousand five hundred five
+seven hundred eighty-seven
+seven hundred thirty-five thousand seven hundred eighty-seven
+nine hundred fifty
+seven hundred thirty-eight thousand nine hundred fifty
+eight hundred eighty-two
+seven hundred forty-one thousand eight hundred eighty-two
+five hundred eighty-five
+seven hundred fifty-two thousand five hundred eighty-five
+eight hundred fifty-one
+seven hundred sixty-three thousand eight hundred fifty-one
+three hundred fifty-one
+seven hundred sixty-seven thousand three hundred fifty-one
+seven hundred sixty-nine
+seven hundred sixty-eight thousand seven hundred sixty-nine
+two hundred twenty-six
+seven hundred seventy thousand two hundred twenty-six
+nine hundred ninety-five
+seven hundred seventy-three thousand nine hundred ninety-five
+four
+seven hundred eighty-one thousand four
+three hundred thirty-four
+seven hundred eighty-two thousand three hundred thirty-four
+three hundred ninety-six
+seven hundred eighty-six thousand three hundred ninety-six
+five hundred thirty-nine
+seven hundred eighty-nine thousand five hundred thirty-nine
+five hundred twenty-three
+seven hundred ninety-one thousand five hundred twenty-three
+two hundred fifty-four
+seven hundred ninety-six thousand two hundred fifty-four
+four hundred eight
+seven hundred ninety-six thousand four hundred eight
+seven hundred twenty-four
+seven hundred ninety-six thousand seven hundred twenty-four
+three hundred seventy-six
+seven hundred ninety-seven thousand three hundred seventy-six
+four hundred fifty-four
+eight hundred four thousand four hundred fifty-four
+three hundred seventy-one
+eight hundred five thousand three hundred seventy-one
+four hundred nineteen
+eight hundred twelve thousand four hundred nineteen
+eight hundred ninety-five
+eight hundred fifteen thousand eight hundred ninety-five
+three hundred sixty-five
+eight hundred twenty-one thousand three hundred sixty-five
+two hundred fifty-three
+eight hundred twenty-four thousand two hundred fifty-three
+five hundred fifty-four
+eight hundred twenty-four thousand five hundred fifty-four
+one hundred fifty-seven
+eight hundred twenty-six thousand one hundred fifty-seven
+six hundred ninety-four
+eight hundred twenty-six thousand six hundred ninety-four
+nine hundred thirty-three
+eight hundred forty-one thousand nine hundred thirty-three
+four hundred sixty-nine
+eight hundred forty-five thousand four hundred sixty-nine
+seven hundred twenty-nine
+eight hundred fifty-one thousand seven hundred twenty-nine
+forty-nine
+eight hundred fifty-three thousand forty-nine
+nine hundred eighty-nine
+eight hundred fifty-three thousand nine hundred eighty-nine
+four
+eight hundred sixty-five thousand four
+fifty-seven
+eight hundred eighty-five thousand fifty-seven
+ten
+eight hundred eighty-seven thousand ten
+five hundred thirty-seven
+eight hundred ninety-six thousand five hundred thirty-seven
+seven hundred forty-two
+nine hundred thousand seven hundred forty-two
+four hundred eighty-seven
+nine hundred one thousand four hundred eighty-seven
+nine hundred ninety-four
+nine hundred nine thousand nine hundred ninety-four
+nine hundred three
+nine hundred fifteen thousand nine hundred three
+four hundred sixty-six
+nine hundred twenty-one thousand four hundred sixty-six
+five hundred sixty-five
+nine hundred twenty-seven thousand five hundred sixty-five
+nine hundred ninety-five
+nine hundred twenty-eight thousand nine hundred ninety-five
+five hundred forty-one
+nine hundred twenty-nine thousand five hundred forty-one
+nine hundred fifty-one
+nine hundred twenty-nine thousand nine hundred fifty-one
+seven hundred thirteen
+nine hundred thirty-three thousand seven hundred thirteen
+seven hundred ninety-eight
+nine hundred thirty-four thousand seven hundred ninety-eight
+five hundred seventeen
+nine hundred forty-four thousand five hundred seventeen
+three hundred fifty-six
+nine hundred forty-five thousand three hundred fifty-six
+seven hundred ninety-four
+nine hundred forty-five thousand seven hundred ninety-four
+four hundred fifty-five
+nine hundred forty-seven thousand four hundred fifty-five
+three hundred nine
+nine hundred fifty thousand three hundred nine
+seven hundred fifty-two
+nine hundred fifty-two thousand seven hundred fifty-two
+four hundred ninety-four
+nine hundred sixty thousand four hundred ninety-four
+four hundred six
+nine hundred sixty-five thousand four hundred six
+seven hundred thirty
+nine hundred sixty-eight thousand seven hundred thirty
+seven hundred fifty-five
+nine hundred sixty-eight thousand seven hundred fifty-five
+one hundred fifty-five
+nine hundred seventy-six thousand one hundred fifty-five
+five hundred fifty-seven
+nine hundred eighty thousand five hundred fifty-seven
+two hundred eighty-nine
+nine hundred eighty-five thousand two hundred eighty-nine
+two hundred eighty-two
+nine hundred eighty-eight thousand two hundred eighty-two
+three hundred thirty-two
+nine hundred ninety-six thousand three hundred thirty-two
+eight hundred sixty-two
+nine hundred ninety-six thousand eight hundred sixty-two

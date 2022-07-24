@@ -1,0 +1,246 @@
+01g02g03g04g05g06g07g08g09g10g11g12g13g14g15g16g17g18g19
+72gggggggggggggggggggggggggggggggggggggggggggggggggggg20
+71gggggggggggggggggggggggggggggggggggggggggggggggggggg21
+70gggggggggggggggggggggggggggggggggggggggggggggggggggg22
+69gggggggggggggggggggggggggggggggggggggggggggggggggggg23
+68gggggggggggggggggggggggggggggggggggggggggggggggggggg24
+67gggggggggggggggggggggggggggggggggggggggggggggggggggg25
+66gggggggggggggggggggggggggggggggggggggggggggggggggggg26
+65gggggggggggggggggggggggggggggggggggggggggggggggggggg27
+64gggggggggggggggggggggggggggggggggggggggggggggggggggg28
+63gggggggggggggggggggggggggggggggggggggggggggggggggggg29
+62gggggggggggggggggggggggggggggggggggggggggggggggggggg30
+61gggggggggggggggggggggggggggggggggggggggggggggggggggg31
+60gggggggggggggggggggggggggggggggggggggggggggggggggggg32
+59gggggggggggggggggggggggggggggggggggggggggggggggggggg33
+58gggggggggggggggggggggggggggggggggggggggggggggggggggg34
+57gggggggggggggggggggggggggggggggggggggggggggggggggggg35
+56gggggggggggggggggggggggggggggggggggggggggggggggggggg36
+55g54g53g52g51g50g49g48g47g46g45g44g43g42g41g40g39g38g37
+
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+72                                                    20
+71                                                    21
+70                                                    22
+69                                                    23
+68                                                    24
+67                                                    25
+66                                                    26
+65                                                    27
+64                                                    28
+63                                                    29
+62                                                    30
+61                                                    31
+60                                                    32
+59                                                    33
+58                                                    34
+57                                                    35
+56                                                    36
+55 54 53 52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37
+
+01502503504505506507508509510511512513514515516517518519
+72555555555555555555555555555555555555555555555555555520
+71555555555555555555555555555555555555555555555555555521
+70555555555555555555555555555555555555555555555555555522
+69555555555555555555555555555555555555555555555555555523
+68555555555555555555555555555555555555555555555555555524
+67555555555555555555555555555555555555555555555555555525
+66555555555555555555555555555555555555555555555555555526
+65555555555555555555555555555555555555555555555555555527
+64555555555555555555555555555555555555555555555555555528
+63555555555555555555555555555555555555555555555555555529
+62555555555555555555555555555555555555555555555555555530
+61555555555555555555555555555555555555555555555555555531
+60555555555555555555555555555555555555555555555555555532
+59555555555555555555555555555555555555555555555555555533
+58555555555555555555555555555555555555555555555555555534
+57555555555555555555555555555555555555555555555555555535
+56555555555555555555555555555555555555555555555555555536
+55554553552551550549548547546545544543542541540539538537
+
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+72                                                    20
+71                                                    21
+70                                                    22
+69                                                    23
+68                                                    24
+67                                                    25
+66                                                    26
+65                                                    27
+64                                                    28
+63                                                    29
+62                                                    30
+61                                                    31
+60                                                    32
+59                                                    33
+58                                                    34
+57                                                    35
+56                                                    36
+55 54 53 52 51 50 49 48 47 46 45 44 43 42 41 40 39 38 37
+
+01s02s03s04s05s06s07s08s09s10s11s12s13s14s15s16s17s18s19
+72ssssssssssssssssssssssssssssssssssssssssssssssssssss20
+71ssssssssssssssssssssssssssssssssssssssssssssssssssss21
+70ssssssssssssssssssssssssssssssssssssssssssssssssssss22
+69ssssssssssssssssssssssssssssssssssssssssssssssssssss23
+68ssssssssssssssssssssssssssssssssssssssssssssssssssss24
+67ssssssssssssssssssssssssssssssssssssssssssssssssssss25
+66ssssssssssssssssssssssssssssssssssssssssssssssssssss26
+65ssssssssssssssssssssssssssssssssssssssssssssssssssss27
+64ssssssssssssssssssssssssssssssssssssssssssssssssssss28
+63ssssssssssssssssssssssssssssssssssssssssssssssssssss29
+62ssssssssssssssssssssssssssssssssssssssssssssssssssss30
+61ssssssssssssssssssssssssssssssssssssssssssssssssssss31
+60ssssssssssssssssssssssssssssssssssssssssssssssssssss32
+59ssssssssssssssssssssssssssssssssssssssssssssssssssss33
+58ssssssssssssssssssssssssssssssssssssssssssssssssssss34
+57ssssssssssssssssssssssssssssssssssssssssssssssssssss35
+56ssssssssssssssssssssssssssssssssssssssssssssssssssss36
+55s54s53s52s51s50s49s48s47s46s45s44s43s42s41s40s39s38s37
+
+01=02=03=04=05=06=07=08=09=10=11=12=13=14=15=16=17=18=19
+72====================================================20
+71====================================================21
+70====================================================22
+69====================================================23
+68====================================================24
+67====================================================25
+66====================================================26
+65====================================================27
+64====================================================28
+63====================================================29
+62====================================================30
+61====================================================31
+60====================================================32
+59====================================================33
+58====================================================34
+57====================================================35
+56====================================================36
+55=54=53=52=51=50=49=48=47=46=45=44=43=42=41=40=39=38=37
+
+01m02m03m04m05m06m07m08m09m10m11m12m13m14m15m16m17m18m19
+72mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm20
+71mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm21
+70mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm22
+69mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm23
+68mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm24
+67mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm25
+66mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm26
+65mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm27
+64mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm28
+63mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm29
+62mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm30
+61mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm31
+60mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm32
+59mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm33
+58mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm34
+57mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm35
+56mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm36
+55m54m53m52m51m50m49m48m47m46m45m44m43m42m41m40m39m38m37
+
+01/02/03/04/05/06/07/08/09/10/11/12/13/14/15/16/17/18/19/20
+76///////////////////////////////////////////////////////21
+75///////////////////////////////////////////////////////22
+74///////////////////////////////////////////////////////23
+73///////////////////////////////////////////////////////24
+72///////////////////////////////////////////////////////25
+71///////////////////////////////////////////////////////26
+70///////////////////////////////////////////////////////27
+69///////////////////////////////////////////////////////28
+68///////////////////////////////////////////////////////29
+67///////////////////////////////////////////////////////30
+66///////////////////////////////////////////////////////31
+65///////////////////////////////////////////////////////32
+64///////////////////////////////////////////////////////33
+63///////////////////////////////////////////////////////34
+62///////////////////////////////////////////////////////35
+61///////////////////////////////////////////////////////36
+60///////////////////////////////////////////////////////37
+59///////////////////////////////////////////////////////38
+58/57/56/55/54/53/52/51/50/49/48/47/46/45/44/43/42/41/40/39
+
+01p02p03p04p05p06p07p08p09p10p11p12p13p14p15p16p17p18p19p20
+76ppppppppppppppppppppppppppppppppppppppppppppppppppppppp21
+75ppppppppppppppppppppppppppppppppppppppppppppppppppppppp22
+74ppppppppppppppppppppppppppppppppppppppppppppppppppppppp23
+73ppppppppppppppppppppppppppppppppppppppppppppppppppppppp24
+72ppppppppppppppppppppppppppppppppppppppppppppppppppppppp25
+71ppppppppppppppppppppppppppppppppppppppppppppppppppppppp26
+70ppppppppppppppppppppppppppppppppppppppppppppppppppppppp27
+69ppppppppppppppppppppppppppppppppppppppppppppppppppppppp28
+68ppppppppppppppppppppppppppppppppppppppppppppppppppppppp29
+67ppppppppppppppppppppppppppppppppppppppppppppppppppppppp30
+66ppppppppppppppppppppppppppppppppppppppppppppppppppppppp31
+65ppppppppppppppppppppppppppppppppppppppppppppppppppppppp32
+64ppppppppppppppppppppppppppppppppppppppppppppppppppppppp33
+63ppppppppppppppppppppppppppppppppppppppppppppppppppppppp34
+62ppppppppppppppppppppppppppppppppppppppppppppppppppppppp35
+61ppppppppppppppppppppppppppppppppppppppppppppppppppppppp36
+60ppppppppppppppppppppppppppppppppppppppppppppppppppppppp37
+59ppppppppppppppppppppppppppppppppppppppppppppppppppppppp38
+58p57p56p55p54p53p52p51p50p49p48p47p46p45p44p43p42p41p40p39
+
+01h02h03h04h05h06h07h08h09h10h11h12h13h14h15h16h17h18h19h20
+76hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh21
+75hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh22
+74hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh23
+73hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh24
+72hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh25
+71hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh26
+70hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh27
+69hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh28
+68hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh29
+67hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh30
+66hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh31
+65hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh32
+64hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh33
+63hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh34
+62hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh35
+61hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh36
+60hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh37
+59hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh38
+58h57h56h55h54h53h52h51h50h49h48h47h46h45h44h43h42h41h40h39
+
+01c02c03c04c05c06c07c08c09c10c11c12c13c14c15c16c17c18c19c20
+76ccccccccccccccccccccccccccccccccccccccccccccccccccccccc21
+75ccccccccccccccccccccccccccccccccccccccccccccccccccccccc22
+74ccccccccccccccccccccccccccccccccccccccccccccccccccccccc23
+73ccccccccccccccccccccccccccccccccccccccccccccccccccccccc24
+72ccccccccccccccccccccccccccccccccccccccccccccccccccccccc25
+71ccccccccccccccccccccccccccccccccccccccccccccccccccccccc26
+70ccccccccccccccccccccccccccccccccccccccccccccccccccccccc27
+69ccccccccccccccccccccccccccccccccccccccccccccccccccccccc28
+68ccccccccccccccccccccccccccccccccccccccccccccccccccccccc29
+67ccccccccccccccccccccccccccccccccccccccccccccccccccccccc30
+66ccccccccccccccccccccccccccccccccccccccccccccccccccccccc31
+65ccccccccccccccccccccccccccccccccccccccccccccccccccccccc32
+64ccccccccccccccccccccccccccccccccccccccccccccccccccccccc33
+63ccccccccccccccccccccccccccccccccccccccccccccccccccccccc34
+62ccccccccccccccccccccccccccccccccccccccccccccccccccccccc35
+61ccccccccccccccccccccccccccccccccccccccccccccccccccccccc36
+60ccccccccccccccccccccccccccccccccccccccccccccccccccccccc37
+59ccccccccccccccccccccccccccccccccccccccccccccccccccccccc38
+58c57c56c55c54c53c52c51c50c49c48c47c46c45c44c43c42c41c40c39
+
+01<02<03<04<05<06<07<08<09<10<11<12<13<14<15<16<17<18<19<20<21
+80<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<22
+79<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<23
+78<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<24
+77<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<25
+76<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<26
+75<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<27
+74<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<28
+73<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<29
+72<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<30
+71<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<31
+70<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<32
+69<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<33
+68<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<34
+67<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<35
+66<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<36
+65<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<37
+64<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<38
+63<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<39
+62<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<40
+61<60<59<58<57<56<55<54<53<52<51<50<49<48<47<46<45<44<43<42<41
+

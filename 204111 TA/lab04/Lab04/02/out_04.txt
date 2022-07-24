@@ -1,0 +1,400 @@
+max =  421
+mid =  199
+min =  199
+None
+max =  443
+mid =  398
+min =  398
+None
+max =  144
+mid =  144
+min =  74
+None
+max =  145
+mid =  17
+min =  17
+None
+max =  191
+mid =  25
+min =  25
+None
+max =  484
+mid =  311
+min =  311
+None
+max =  390
+mid =  302
+min =  302
+None
+max =  405
+mid =  405
+min =  67
+None
+max =  439
+mid =  276
+min =  276
+None
+max =  351
+mid =  351
+min =  342
+None
+max =  411
+mid =  94
+min =  94
+None
+max =  330
+mid =  22
+min =  22
+None
+max =  355
+mid =  355
+min =  156
+None
+max =  300
+mid =  300
+min =  12
+None
+max =  459
+mid =  459
+min =  455
+None
+max =  133
+mid =  69
+min =  69
+None
+max =  283
+mid =  183
+min =  183
+None
+max =  35
+mid =  35
+min =  4
+None
+max =  409
+mid =  409
+min =  168
+None
+max =  396
+mid =  43
+min =  43
+None
+max =  406
+mid =  341
+min =  341
+None
+max =  344
+mid =  344
+min =  135
+None
+max =  494
+mid =  494
+min =  278
+None
+max =  141
+mid =  141
+min =  18
+None
+max =  499
+mid =  412
+min =  412
+None
+max =  380
+mid =  380
+min =  120
+None
+max =  491
+mid =  295
+min =  295
+None
+max =  471
+mid =  353
+min =  353
+None
+max =  269
+mid =  269
+min =  16
+None
+max =  284
+mid =  284
+min =  6
+None
+max =  340
+mid =  66
+min =  66
+None
+max =  111
+mid =  111
+min =  20
+None
+max =  466
+mid =  466
+min =  96
+None
+max =  200
+mid =  200
+min =  34
+None
+max =  273
+mid =  262
+min =  262
+None
+max =  222
+mid =  117
+min =  117
+None
+max =  453
+mid =  157
+min =  157
+None
+max =  216
+mid =  216
+min =  79
+None
+max =  52
+mid =  26
+min =  26
+None
+max =  219
+mid =  219
+min =  203
+None
+max =  431
+mid =  152
+min =  152
+None
+max =  356
+mid =  185
+min =  185
+None
+max =  251
+mid =  251
+min =  165
+None
+max =  128
+mid =  128
+min =  121
+None
+max =  323
+mid =  77
+min =  77
+None
+max =  263
+mid =  263
+min =  257
+None
+max =  400
+mid =  159
+min =  159
+None
+max =  260
+mid =  85
+min =  85
+None
+max =  160
+mid =  160
+min =  63
+None
+max =  446
+mid =  446
+min =  315
+None
+max =  382
+mid =  382
+min =  218
+None
+max =  381
+mid =  381
+min =  151
+None
+max =  232
+mid =  232
+min =  36
+None
+max =  392
+mid =  174
+min =  174
+None
+max =  391
+mid =  377
+min =  377
+None
+max =  212
+mid =  177
+min =  177
+None
+max =  317
+mid =  317
+min =  243
+None
+max =  233
+mid =  97
+min =  97
+None
+max =  362
+mid =  362
+min =  130
+None
+max =  414
+mid =  414
+min =  367
+None
+max =  293
+mid =  293
+min =  184
+None
+max =  163
+mid =  163
+min =  76
+None
+max =  403
+mid =  89
+min =  89
+None
+max =  345
+mid =  14
+min =  14
+None
+max =  285
+mid =  285
+min =  221
+None
+max =  373
+mid =  298
+min =  298
+None
+max =  176
+mid =  176
+min =  82
+None
+max =  338
+mid =  338
+min =  7
+None
+max =  328
+mid =  319
+min =  319
+None
+max =  480
+mid =  181
+min =  181
+None
+max =  425
+mid =  270
+min =  270
+None
+max =  375
+mid =  140
+min =  140
+None
+max =  347
+mid =  87
+min =  87
+None
+max =  447
+mid =  447
+min =  237
+None
+max =  324
+mid =  324
+min =  321
+None
+max =  84
+mid =  1
+min =  1
+None
+max =  486
+mid =  486
+min =  408
+None
+max =  478
+mid =  386
+min =  386
+None
+max =  430
+mid =  430
+min =  39
+None
+max =  473
+mid =  473
+min =  210
+None
+max =  418
+mid =  418
+min =  350
+None
+max =  438
+mid =  438
+min =  239
+None
+max =  467
+mid =  223
+min =  223
+None
+max =  456
+mid =  72
+min =  72
+None
+max =  498
+mid =  498
+min =  249
+None
+max =  171
+mid =  171
+min =  100
+None
+max =  444
+mid =  444
+min =  45
+None
+max =  308
+mid =  248
+min =  248
+None
+max =  265
+mid =  187
+min =  187
+None
+max =  384
+mid =  92
+min =  92
+None
+max =  334
+mid =  31
+min =  31
+None
+max =  294
+mid =  288
+min =  288
+None
+max =  58
+mid =  2
+min =  2
+None
+max =  198
+mid =  198
+min =  10
+None
+max =  279
+mid =  81
+min =  81
+None
+max =  258
+mid =  258
+min =  236
+None
+max =  487
+mid =  388
+min =  388
+None
+max =  139
+mid =  104
+min =  104
+None
+max =  475
+mid =  246
+min =  246
+None
+max =  426
+mid =  153
+min =  153
+None

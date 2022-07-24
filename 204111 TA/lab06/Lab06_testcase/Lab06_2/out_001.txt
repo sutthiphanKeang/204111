@@ -1,0 +1,2 @@
+<class 'float'> 101100.001100
+<class 'float'> -11.001001

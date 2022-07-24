@@ -1,0 +1,406 @@
+EMPTY
+nine billion
+EMPTY
+eighty billion
+EMPTY
+seven hundred billion
+twelve
+one billion four hundred eighty-nine million six hundred sixty-two thousand twelve
+eight hundred forty
+two billion nine hundred forty-three million three hundred forty-one thousand eight hundred forty
+thirty
+fifteen billion nine hundred sixty-seven million fifty-three thousand thirty
+three hundred fifty-six
+twenty-two billion seven hundred forty million seven hundred thirty-two thousand three hundred fifty-six
+twenty-three
+twenty-five billion one hundred sixty-four million six hundred thirty-six thousand twenty-three
+eighty-two
+twenty-five billion six hundred forty-nine million two hundred twenty-eight thousand eighty-two
+two hundred eight
+thirty billion eight hundred fourteen million three hundred seventy-six thousand two hundred eight
+six hundred ninety-two
+thirty-two billion one hundred thirty-six million seventy-four thousand six hundred ninety-two
+eight hundred sixty-two
+forty-two billion six hundred forty-one million three hundred twenty-three thousand eight hundred sixty-two
+five hundred twenty-seven
+forty-four billion six hundred seventeen million five hundred eighty-seven thousand five hundred twenty-seven
+seven hundred fourteen
+forty-six billion two hundred thirty-one million six hundred thirty-five thousand seven hundred fourteen
+four hundred eighty-five
+fifty-two billion two hundred forty million ninety-six thousand four hundred eighty-five
+eight hundred eight
+fifty-six billion nine hundred thirty-one million three hundred forty-seven thousand eight hundred eight
+four hundred twenty-four
+sixty-two billion three hundred twenty-four million seven hundred fifty-five thousand four hundred twenty-four
+eight hundred fifty-one
+sixty-four billion five hundred forty-four million five hundred seventeen thousand eight hundred fifty-one
+two hundred fifteen
+sixty-seven billion five hundred forty-one million seven hundred ninety-five thousand two hundred fifteen
+four hundred eighty-four
+seventy-three billion nine hundred thirty-eight million ninety-eight thousand four hundred eighty-four
+two hundred forty-one
+eighty-five billion five hundred forty-six million nine hundred sixty-nine thousand two hundred forty-one
+six hundred
+ninety-five billion three hundred sixty-seven million four hundred twenty-five thousand six hundred
+three hundred thirty-four
+ninety-five billion nine hundred forty-one million five hundred eighty-three thousand three hundred thirty-four
+two hundred thirty
+ninety-six billion one hundred sixty-four million two hundred eighty-three thousand two hundred thirty
+two hundred forty-one
+ninety-nine billion six hundred ten million two hundred twenty-eight thousand two hundred forty-one
+three hundred eighty-eight
+one hundred one billion three hundred forty-one million two hundred sixty-one thousand three hundred eighty-eight
+seven hundred eighteen
+one hundred two billion four hundred thirty million seven hundred thirty-nine thousand seven hundred eighteen
+eight hundred fifty-three
+one hundred seven billion eight hundred four million five hundred fourteen thousand eight hundred fifty-three
+two hundred fifty-one
+one hundred twenty-five billion eight hundred eighty-nine million one hundred ninety-seven thousand two hundred fifty-one
+four hundred
+one hundred thirty-one billion eight hundred thirty-five million five hundred forty thousand four hundred
+one hundred two
+one hundred thirty-nine billion three hundred sixty-three million eighty thousand one hundred two
+nine hundred fifty-eight
+one hundred forty-three billion three hundred thirty-eight million nine hundred eleven thousand nine hundred fifty-eight
+five hundred ninety-five
+one hundred forty-six billion four hundred thirty million seven hundred sixty-one thousand five hundred ninety-five
+seven hundred fifty-nine
+one hundred fifty-five billion one hundred fourteen million three hundred seventy-four thousand seven hundred fifty-nine
+six hundred forty-one
+one hundred fifty-six billion three hundred twenty-seven million seven hundred twenty-six thousand six hundred forty-one
+five hundred one
+one hundred fifty-nine billion four hundred seventy-four million one hundred eighty-three thousand five hundred one
+seven hundred seventy-three
+one hundred sixty-four billion nine hundred seventy million ninety-four thousand seven hundred seventy-three
+two hundred forty-four
+one hundred seventy-three billion three hundred fifty-one million three hundred ninety-five thousand two hundred forty-four
+four hundred fifty-four
+one hundred seventy-nine billion four hundred sixty-eight million seven hundred sixty-one thousand four hundred fifty-four
+four hundred thirty-seven
+one hundred ninety-one billion six hundred twenty-one million nine hundred ninety-two thousand four hundred thirty-seven
+eight hundred thirty-three
+one hundred ninety-two billion seven hundred sixty-one million one hundred fifty-eight thousand eight hundred thirty-three
+four hundred six
+one hundred ninety-nine billion four hundred sixty-four million seventy-five thousand four hundred six
+five hundred eighty-four
+two hundred one billion one hundred ninety-nine million five hundred eight thousand five hundred eighty-four
+four hundred seventy-nine
+two hundred eight billion nine hundred eighty million five hundred sixty thousand four hundred seventy-nine
+six hundred thirty-four
+two hundred nine billion five hundred fourteen million nine hundred eighty-nine thousand six hundred thirty-four
+six hundred thirty-six
+two hundred sixteen billion five hundred thirty-two million one hundred fifty-nine thousand six hundred thirty-six
+eight hundred thirty-four
+two hundred forty billion six hundred two million one hundred sixty-four thousand eight hundred thirty-four
+two hundred five
+two hundred forty-one billion three hundred sixty-five million two hundred two thousand two hundred five
+two hundred ninety-eight
+two hundred forty-three billion two hundred forty million two hundred thirteen thousand two hundred ninety-eight
+four hundred eighty-one
+two hundred forty-four billion two hundred eight million nine hundred fifty thousand four hundred eighty-one
+one hundred fifteen
+two hundred forty-six billion four hundred seventeen million forty-six thousand one hundred fifteen
+four hundred ninety-two
+two hundred fifty-three billion nine hundred sixty-eight million eight hundred seventy-one thousand four hundred ninety-two
+four hundred eighty-four
+two hundred sixty billion nine hundred seventy-seven million two hundred seventy-five thousand four hundred eighty-four
+one hundred fifty-four
+two hundred sixty-two billion seven hundred twenty-two million one hundred thirty-one thousand one hundred fifty-four
+thirteen
+two hundred seventy billion eight hundred thirty-four million two hundred thirty-four thousand thirteen
+one hundred six
+two hundred seventy-three billion six hundred seventy-three million two hundred eighty-eight thousand one hundred six
+three hundred twenty-nine
+two hundred seventy-eight billion one hundred sixty-seven million four hundred sixty-six thousand three hundred twenty-nine
+eight hundred twenty
+two hundred seventy-eight billion six hundred forty-nine million six hundred ninety-eight thousand eight hundred twenty
+five hundred seventy-three
+two hundred eighty-two billion seven hundred fifty-six million seven hundred sixty-nine thousand five hundred seventy-three
+eighty-one
+two hundred ninety-nine billion two hundred thirty-two million seven hundred three thousand eighty-one
+seven hundred sixty-nine
+three hundred thirteen billion four hundred twenty million three hundred sixty thousand seven hundred sixty-nine
+four hundred thirty-five
+three hundred thirteen billion eight hundred thirteen million three hundred seven thousand four hundred thirty-five
+one hundred eleven
+three hundred twenty-two billion two hundred twenty-three million six hundred sixty-five thousand one hundred eleven
+eight hundred thirty-seven
+three hundred twenty-seven billion four hundred thirty-one million four hundred ninety thousand eight hundred thirty-seven
+ninety-seven
+three hundred thirty-two billion one hundred fifteen million nine hundred eight thousand ninety-seven
+nine hundred twenty-three
+three hundred thirty-five billion three hundred thirty-seven million nine hundred twenty thousand nine hundred twenty-three
+six hundred six
+three hundred thirty-eight billion six hundred thirty-seven million three hundred forty-eight thousand six hundred six
+ninety-five
+three hundred forty-six billion two hundred seventy million five hundred eighty-eight thousand ninety-five
+sixteen
+three hundred fifty-seven billion four hundred twenty-seven million four hundred seventy-three thousand sixteen
+four hundred sixty-eight
+three hundred sixty-three billion four hundred sixty million nine hundred twenty-two thousand four hundred sixty-eight
+nine hundred fifty-seven
+three hundred sixty-four billion nine hundred fourteen million five hundred seventeen thousand nine hundred fifty-seven
+eight hundred forty-seven
+three hundred seventy-three billion four hundred sixty-two million seven hundred thirty-seven thousand eight hundred forty-seven
+twenty-nine
+three hundred seventy-three billion seven hundred thirty million four hundred twenty-nine thousand twenty-nine
+six
+three hundred eighty billion one hundred ninety-three million six hundred fifty-eight thousand six
+two hundred eighty
+three hundred eighty-four billion two hundred four million nine hundred fifteen thousand two hundred eighty
+five hundred thirty
+three hundred ninety-five billion five hundred seventy-nine million two hundred thousand five hundred thirty
+three hundred seventy-eight
+three hundred ninety-six billion two hundred thirty million two hundred eighty-four thousand three hundred seventy-eight
+five hundred fifty-three
+four hundred six billion eight hundred fifty-six million four hundred five thousand five hundred fifty-three
+six hundred ninety-seven
+four hundred seven billion three hundred forty-two million five hundred eighty-one thousand six hundred ninety-seven
+eight hundred seventy-eight
+four hundred seven billion seven hundred forty-three million eight hundred fourteen thousand eight hundred seventy-eight
+five hundred eighty-nine
+four hundred eleven billion three hundred eighty-one million four hundred fifty-six thousand five hundred eighty-nine
+nine hundred sixty-two
+four hundred fifteen billion two hundred eighty million three hundred sixteen thousand nine hundred sixty-two
+four hundred fifty-seven
+four hundred twenty-nine billion four hundred ninety-four million six hundred thirty-seven thousand four hundred fifty-seven
+eight hundred twenty
+four hundred twenty-nine billion seven hundred seventy-seven million eight hundred forty-nine thousand eight hundred twenty
+eight hundred fifty-seven
+four hundred thirty-one billion nine hundred eighty-one million two hundred five thousand eight hundred fifty-seven
+four hundred thirty-two
+four hundred thirty-two billion five hundred thirty-four million one hundred thirty thousand four hundred thirty-two
+nine hundred seventy-five
+four hundred forty-one billion one hundred ten million five hundred seventy-one thousand nine hundred seventy-five
+eight hundred ninety-two
+four hundred forty-one billion seven hundred fifty-nine million nine hundred sixty-four thousand eight hundred ninety-two
+nine hundred ninety
+four hundred forty-two billion three hundred twenty-seven million six hundred fifty-one thousand nine hundred ninety
+three hundred seventy-one
+four hundred forty-two billion eight hundred twenty-two million two hundred ninety-one thousand three hundred seventy-one
+two hundred eighty-nine
+four hundred forty-seven billion four hundred twenty-three million six hundred seventy-two thousand two hundred eighty-nine
+nine hundred forty-nine
+four hundred fifty-one billion three hundred seventy-seven million five hundred six thousand nine hundred forty-nine
+eight hundred twelve
+four hundred fifty-nine billion three hundred one million six hundred sixty-five thousand eight hundred twelve
+eight hundred eighty-four
+four hundred sixty-four billion two hundred forty-five million one hundred sixty-six thousand eight hundred eighty-four
+five hundred two
+four hundred sixty-four billion two hundred fifty-five million five hundred fifty-two thousand five hundred two
+nineteen
+four hundred sixty-five billion nine hundred twenty-nine million six hundred forty thousand nineteen
+five hundred twenty-eight
+four hundred sixty-eight billion three hundred fifty-eight million eight hundred thirty-seven thousand five hundred twenty-eight
+five hundred fifty-three
+four hundred seventy-three billion one hundred twenty-three million four hundred twenty-five thousand five hundred fifty-three
+three hundred forty-seven
+four hundred seventy-three billion nine hundred seventeen million nine hundred thirty-seven thousand three hundred forty-seven
+three hundred seventy-six
+four hundred seventy-four billion eight hundred thirty-four million seventeen thousand three hundred seventy-six
+six hundred fifty-eight
+four hundred seventy-nine billion nine hundred ninety-eight million two hundred twenty-two thousand six hundred fifty-eight
+two hundred twenty-nine
+four hundred eighty billion nine hundred fifty-two million seven hundred sixteen thousand two hundred twenty-nine
+four hundred two
+four hundred eighty-eight billion five hundred twenty-three million seven hundred thirty-nine thousand four hundred two
+seven hundred eighty-five
+four hundred ninety-one billion six hundred ninety-nine million three thousand seven hundred eighty-five
+eight hundred eighty
+four hundred ninety-five billion one hundred eighty million eight hundred thirteen thousand eight hundred eighty
+one hundred ninety-two
+four hundred ninety-five billion six hundred fourteen million five hundred twenty thousand one hundred ninety-two
+seven hundred seventy-five
+four hundred ninety-nine billion nine hundred thirty-one million eight hundred seven thousand seven hundred seventy-five
+five hundred thirty-six
+five hundred three billion four hundred fifty-three million five hundred eighteen thousand five hundred thirty-six
+five hundred seven
+five hundred eight billion three hundred million seven hundred ninety-three thousand five hundred seven
+nine hundred fifty-two
+five hundred ten billion seven hundred two million eight hundred thirty-eight thousand nine hundred fifty-two
+seven hundred seventy-six
+five hundred eleven billion five hundred sixty-eight million two hundred eighteen thousand seven hundred seventy-six
+seven hundred forty-eight
+five hundred fourteen billion three hundred twenty-four million two hundred fifteen thousand seven hundred forty-eight
+eight hundred forty-six
+five hundred fifteen billion five hundred twenty-three million seven hundred seven thousand eight hundred forty-six
+eight hundred ninety-six
+five hundred twenty-five billion five hundred ninety-nine million four hundred fifty-five thousand eight hundred ninety-six
+sixteen
+five hundred twenty-eight billion nine hundred six million seven hundred twenty-eight thousand sixteen
+two hundred six
+five hundred twenty-nine billion five hundred twenty-two million two hundred fifty-nine thousand two hundred six
+five hundred fifteen
+five hundred thirty-seven billion nine hundred ninety-two million four hundred thirty-six thousand five hundred fifteen
+six hundred thirty-six
+five hundred thirty-eight billion seven hundred eighty million eight hundred twenty-nine thousand six hundred thirty-six
+eight hundred eleven
+five hundred forty-one billion one hundred eighteen million two hundred seventy-five thousand eight hundred eleven
+six hundred nineteen
+five hundred forty-nine billion four hundred seventeen million seven hundred five thousand six hundred nineteen
+six hundred six
+five hundred fifty-two billion one hundred twenty-six million seven hundred fifty-six thousand six hundred six
+sixty-three
+five hundred sixty-four billion seven hundred seventy-six million four hundred forty thousand sixty-three
+one hundred seventy-three
+five hundred seventy-two billion seven hundred sixty-seven million one hundred sixty-five thousand one hundred seventy-three
+five hundred forty-six
+five hundred ninety-two billion eight hundred seventy million two hundred fifty-nine thousand five hundred forty-six
+eight hundred fifty
+six hundred billion two hundred sixty-four million two hundred twenty-four thousand eight hundred fifty
+one hundred forty-three
+six hundred five billion three hundred thirty-eight million nine hundred sixty-nine thousand one hundred forty-three
+sixteen
+six hundred eight billion seven hundred ninety-eight million five hundred ninety-five thousand sixteen
+seven hundred sixty-nine
+six hundred seventeen billion three hundred sixty-three million nine hundred fifty-two thousand seven hundred sixty-nine
+five hundred twenty-three
+six hundred seventeen billion four hundred five million six hundred fifty-six thousand five hundred twenty-three
+eight hundred eighty-three
+six hundred twenty billion two hundred forty-four million nine hundred twenty-six thousand eight hundred eighty-three
+three hundred thirty-four
+six hundred twenty billion seven hundred fifteen million one hundred eleven thousand three hundred thirty-four
+eight hundred seventy-three
+six hundred twenty-two billion nine hundred seven million eight hundred thirty-two thousand eight hundred seventy-three
+eight hundred eighteen
+six hundred thirty billion six hundred seventy-nine million six hundred thirty-four thousand eight hundred eighteen
+six hundred eighty
+six hundred thirty billion eight hundred seventy-four million forty-six thousand six hundred eighty
+nine hundred eighty-two
+six hundred thirty-four billion two hundred sixty-two million four hundred sixty-two thousand nine hundred eighty-two
+six hundred ninety-five
+six hundred thirty-five billion nine hundred ninety million two hundred eleven thousand six hundred ninety-five
+four hundred two
+six hundred fifty billion one hundred thirty million two hundred ninety-seven thousand four hundred two
+ninety-six
+six hundred fifty-one billion six hundred seventy-two million five hundred thirty-one thousand ninety-six
+five hundred ninety
+six hundred fifty-six billion eight hundred sixteen million nine hundred eighty-three thousand five hundred ninety
+seven hundred eighty-nine
+six hundred seventy-three billion one hundred twenty-four million six hundred ninety-two thousand seven hundred eighty-nine
+three hundred fifty-three
+six hundred seventy-three billion seven hundred twenty-nine million one hundred thirty-six thousand three hundred fifty-three
+three hundred twenty-three
+six hundred seventy-nine billion one hundred ninety-six million five hundred eighty thousand three hundred twenty-three
+nine hundred six
+six hundred eighty-five billion two hundred fifty-three million seven hundred one thousand nine hundred six
+eighty-one
+six hundred ninety-one billion six hundred sixty-nine million seventy thousand eighty-one
+one hundred forty-six
+six hundred ninety-three billion eight hundred seventy-two million three hundred eighty-nine thousand one hundred forty-six
+two hundred seventy-nine
+six hundred ninety-six billion nine hundred eighty-nine million nine hundred eighty-nine thousand two hundred seventy-nine
+nine hundred sixteen
+seven hundred one billion two hundred sixty-nine million five hundred fifty thousand nine hundred sixteen
+three hundred seventy-three
+seven hundred four billion two hundred fifty-six million two hundred eighty-five thousand three hundred seventy-three
+three hundred eighty-one
+seven hundred twenty-three billion four hundred five million six hundred ninety-two thousand three hundred eighty-one
+seven hundred seventy-nine
+seven hundred thirty billion six hundred fifty-nine million fifty-three thousand seven hundred seventy-nine
+nine hundred fifty-seven
+seven hundred thirty-two billion four hundred ninety million four hundred sixty-five thousand nine hundred fifty-seven
+two hundred sixty-four
+seven hundred thirty-three billion eight hundred fifty-six million two hundred two thousand two hundred sixty-four
+two hundred ninety-five
+seven hundred thirty-six billion four hundred twenty-one million two hundred fifty thousand two hundred ninety-five
+two hundred thirty-two
+seven hundred thirty-nine billion six hundred seven million six hundred seven thousand two hundred thirty-two
+one hundred seventy-eight
+seven hundred forty-one billion two hundred fifty-nine million three hundred thirty thousand one hundred seventy-eight
+seven hundred forty-five
+seven hundred forty-five billion three hundred twenty-six million nine hundred thirty-one thousand seven hundred forty-five
+one hundred eighty-one
+seven hundred fifty billion six hundred eighty-three million nine hundred eighty-eight thousand one hundred eighty-one
+four hundred fourteen
+seven hundred fifty-five billion four hundred twenty-three million eight hundred seventy-two thousand four hundred fourteen
+seven hundred ninety-four
+seven hundred fifty-seven billion one hundred ninety-seven million seven hundred twenty-two thousand seven hundred ninety-four
+three hundred forty-three
+seven hundred fifty-seven billion six hundred fifteen million two hundred twenty thousand three hundred forty-three
+one hundred forty-three
+seven hundred sixty-one billion two hundred thirty-five million seven hundred twelve thousand one hundred forty-three
+four hundred seventy-three
+seven hundred sixty-two billion seven hundred eighty-nine million five hundred thirty-six thousand four hundred seventy-three
+nine hundred fifty-three
+seven hundred sixty-six billion nine hundred five million nine hundred forty-six thousand nine hundred fifty-three
+one hundred forty-five
+seven hundred seventy-six billion four hundred forty-seven million six hundred ninety-six thousand one hundred forty-five
+nine hundred sixty-four
+seven hundred eighty-two billion nine hundred seventy-three million six hundred fifty-two thousand nine hundred sixty-four
+four hundred twenty-eight
+seven hundred eighty-six billion eight hundred forty-four million eighty-eight thousand four hundred twenty-eight
+three hundred
+seven hundred eighty-seven billion five hundred sixty-one million nine hundred ninety-three thousand three hundred
+two hundred twenty-five
+eight hundred six billion nine hundred thirty million four hundred seventy-four thousand two hundred twenty-five
+nine hundred ninety-five
+eight hundred fifteen billion two hundred thirty-seven million seven hundred ninety-one thousand nine hundred ninety-five
+eight hundred eighty-five
+eight hundred twenty-five billion nine hundred seventy-one million four hundred fifty-one thousand eight hundred eighty-five
+one hundred eighty-seven
+eight hundred twenty-seven billion three hundred ninety-one million forty-one thousand one hundred eighty-seven
+four hundred eighty-three
+eight hundred twenty-seven billion seven hundred sixty-nine million two hundred seventy-nine thousand four hundred eighty-three
+eight hundred twenty-two
+eight hundred forty-one billion six hundred four million four hundred thirty-two thousand eight hundred twenty-two
+five hundred sixty-seven
+eight hundred forty-three billion nine hundred thirty million nine hundred sixty-two thousand five hundred sixty-seven
+seventy-nine
+eight hundred forty-nine billion two hundred fifty-three million three hundred thirty thousand seventy-nine
+two hundred forty-nine
+eight hundred forty-nine billion seven hundred ninety-one million two hundred twenty-one thousand two hundred forty-nine
+five hundred ninety-nine
+eight hundred seventy-five billion two hundred eighty-eight million four hundred fifty-three thousand five hundred ninety-nine
+six hundred twenty-six
+eight hundred eighty-six billion two hundred twenty-two million sixty-nine thousand six hundred twenty-six
+nine hundred thirteen
+eight hundred eighty-eight billion seven hundred ninety-six million seven hundred forty-one thousand nine hundred thirteen
+nine hundred forty-five
+nine hundred four billion four hundred seventy-five million seven hundred eighty-nine thousand nine hundred forty-five
+eight hundred
+nine hundred four billion seven hundred sixty-one million five hundred seventy-seven thousand eight hundred
+nine hundred twenty-seven
+nine hundred six billion three hundred sixty-six million five hundred forty-two thousand nine hundred twenty-seven
+seven hundred forty-four
+nine hundred fifteen billion nine hundred fifty-two million four hundred fourteen thousand seven hundred forty-four
+five hundred twenty-seven
+nine hundred sixteen billion one hundred ninety million two hundred fourteen thousand five hundred twenty-seven
+nine hundred twenty-three
+nine hundred seventeen billion seven hundred three million two hundred fifty-nine thousand nine hundred twenty-three
+nine hundred twenty
+nine hundred twenty-eight billion eight hundred seventy million seven hundred sixty-five thousand nine hundred twenty
+six hundred forty-three
+nine hundred twenty-nine billion five hundred twenty-six million four hundred seventy-five thousand six hundred forty-three
+three hundred eight
+nine hundred thirty-three billion one hundred thirty-two million six hundred eighty-nine thousand three hundred eight
+one hundred sixty-two
+nine hundred thirty-three billion one hundred eighty-one million one hundred forty-eight thousand one hundred sixty-two
+nine hundred nineteen
+nine hundred forty-one billion six hundred forty-three million one hundred seventy-two thousand nine hundred nineteen
+six hundred ninety-six
+nine hundred forty-three billion eight hundred eighty-eight million seven hundred sixty-nine thousand six hundred ninety-six
+two hundred sixty
+nine hundred forty-seven billion four hundred seventy-three million six hundred twelve thousand two hundred sixty
+four hundred eighty-nine
+nine hundred fifty-nine billion one hundred twenty-seven million six hundred forty-eight thousand four hundred eighty-nine
+three hundred seventy-one
+nine hundred sixty-four billion five hundred forty-nine million two thousand three hundred seventy-one
+two hundred seventy-six
+nine hundred sixty-six billion two hundred six million eight hundred thirty-nine thousand two hundred seventy-six
+three hundred fifty-three
+nine hundred sixty-seven billion one hundred twelve million nineteen thousand three hundred fifty-three
+two hundred seventeen
+nine hundred seventy-four billion four hundred fifty-six million nine hundred twenty-nine thousand two hundred seventeen
+two hundred ninety-five
+nine hundred eighty-five billion three hundred forty-eight million forty-six thousand two hundred ninety-five
+four hundred two
+nine hundred eighty-seven billion five hundred seventy-nine million eight hundred ninety-five thousand four hundred two
+one hundred thirteen
+nine hundred eighty-nine billion eight hundred seventeen million one hundred fifty-six thousand one hundred thirteen
+one hundred nine
+nine hundred ninety-one billion eight hundred seventy million three hundred two thousand one hundred nine
+five hundred eighty-six
+nine hundred ninety-three billion nine hundred twenty-six million sixty-seven thousand five hundred eighty-six
+six hundred forty-six
+nine hundred ninety-eight billion four hundred forty-four million four hundred seventy-five thousand six hundred forty-six

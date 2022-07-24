@@ -1,0 +1,20 @@
+<class 'int'>
+15
+<class 'int'>
+19
+<class 'int'>
+13
+<class 'int'>
+14
+<class 'int'>
+15
+<class 'int'>
+15
+<class 'int'>
+15
+<class 'int'>
+48
+<class 'int'>
+13
+<class 'int'>
+20

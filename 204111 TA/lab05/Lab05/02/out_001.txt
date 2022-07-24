@@ -1,0 +1,2 @@
+True <class 'bool'>
+False <class 'bool'>

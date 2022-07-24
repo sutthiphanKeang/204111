@@ -1,0 +1,10 @@
+<class 'float'> 0.000000
+<class 'float'> -110010.000000
+<class 'float'> 1.000000
+<class 'float'> -1.000000
+<class 'float'> 10001000.000000
+<class 'float'> -10111111.000000
+<class 'float'> -110110.000000
+<class 'float'> -10011100.000000
+<class 'float'> -101011.000000
+<class 'float'> -10001011.000000
